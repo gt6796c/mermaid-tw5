@@ -1,0 +1,39 @@
+{
+    "tiddlers": [
+    {
+        "file": "mermaidAPI.min.js",
+        "fields": {
+            "type": "application/javascript",
+            "title": "$:/plugins/gt6796c/mermaid-tw5/mermaidAPI.js",
+            "module-type": "library"
+        },
+        "prefix": "(function(document) {\n",
+        "suffix": "\n})($tw.node ? $tw.fakeDocument : window.document)\n"
+    } ,
+    {
+        "file": "mermaid.dark.css",
+        "fields": {
+            "type": "text/css",
+            "title": "$:/plugins/gt6796c/mermaid-tw5/mermaid.dark.css",
+            "tags" : "$:/tags/Stylesheet"
+        }
+    },
+    {
+        "file": "mermaid.css",
+        "fields": {
+            "type": "text/css",
+            "title": "$:/plugins/gt6796c/mermaid-tw5/mermaid.css",
+            "tags" : "$:/tags/Stylesheet"
+        }
+    },
+    {
+        "file": "mermaid.forest.css",
+        "fields": {
+            "type": "text/css",
+            "title": "$:/plugins/gt6796c/mermaid-tw5/mermaid.forest.css",
+            "tags" : "$:/tags/Stylesheet"
+        }
+    }
+
+]
+}
