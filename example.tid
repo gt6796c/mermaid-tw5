@@ -1,0 +1,25 @@
+title: $:/plugins/gt6796c/mermaid-tw5/example
+
+See full examples from https://knsv.github.io/mermaid
+
+Notation
+
+```
+graph LR;
+    A[a node with text]-->B(a node with rounded corners);
+    A--no links---C((a circle));
+    B-->D{a diamond};
+    C==>|arrow and text|D;
+    C-. back to.->A;
+```
+Results
+
+<$mermaid text="
+graph LR;
+    A[a node with text]-->B(a node with rounded corners);
+    A--no links---C((a circle));
+    B-->D{a diamond};
+    C==>|arrow and text|D;
+    C-. back to.->A;">
+</$mermaid>
+

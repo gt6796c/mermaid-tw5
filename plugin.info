@@ -1,0 +1,10 @@
+{
+    "title": "$:/plugins/gt6796c/mermaid-tw5",
+    "description": "Wrappers for mermaid.js",
+    "author": "Nathaniel Jones",
+    "version": "0.1.0",
+    "core-version": ">=5.0.8",
+    "plugin-type": "plugin",
+    "list" : "readme usage example license"
+
+}

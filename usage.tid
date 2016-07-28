@@ -1,0 +1,13 @@
+title: $:/plugins/gt6796c/mermaid-tw5/usage
+
+!mermaid
+Use the ``<$mermaid>`` widget and place the mermaid commands within it. Any of the options that can be specified
+in the ``.render()`` options variable can be specified as JSON-encoded values in attributes of the same name on the widgets.
+The values of the attributes can also be the title of Data Tiddlers and the values will be used from the referenced Tiddler.
+You can set the type of a Tiddler to text/vnd.tiddlywiki.mermaid and use the native commands directly in the Tiddler body. You can
+add fields that are the names below prefixed with 'mermaid'. So "theme" becomes "mermaid-theme"
+
+!!Notes
+*JSON encoding only allows double-quotes ``"`` as string delimiters
+*JSON encoding requires double-quotes around single string values
+*The body of the text is parsed as a Tiddler. If you need conflicting elements, use either the ``text`` attribute on the widget or set the type field to ``text/vnd.tiddlywiki.mermaid`` and transclude the whole Tiddler
