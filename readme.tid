@@ -8,6 +8,10 @@ It is currently based on [[mermaid.js v.0.5.1|https://knsv.github.io/mermaid]]
 
 [[Source code|https://github.com/gt6796c/mermaid-tw5]]
 
+!Dependencies
+;This plugin requires:
+*[[rocklib Plugin|https://gt6796c.github.io]]
+
 !History
 ;0.1.1
 : Updated to use [[rocklib|$:/plugins/gt6796c/rocklib]]
