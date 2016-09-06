@@ -7,3 +7,7 @@ It is completely self-contained, and doesn't need an Internet connection in orde
 It is currently based on [[mermaid.js v.0.5.1|https://knsv.github.io/mermaid]]
 
 [[Source code|https://github.com/gt6796c/mermaid-tw5]]
+
+!History
+;0.1.1
+: Updated to use [[rocklib|$:/plugins/gt6796c/rocklib]]
