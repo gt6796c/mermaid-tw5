@@ -6,7 +6,8 @@ It is completely self-contained, and doesn't need an Internet connection in orde
 
 It is currently based on [[mermaid.js v.0.5.1|https://knsv.github.io/mermaid]]
 
-[[Source code|https://github.com/gt6796c/mermaid-tw5]]
+!Installation
+You can either build from [[Source code|https://github.com/gt6796c/mermaid-tw5]] or install from [[here|https://gt6796c.github.io]]
 
 !Dependencies
 ;This plugin requires:
