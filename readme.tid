@@ -4,7 +4,7 @@ This is a TiddlyWiki plugin for using mermaid.js.
 
 It is completely self-contained, and doesn't need an Internet connection in order to work. It works both in the browser and under Node.js.
 
-It is currently based on [[mermaid.js v.0.5.1|https://knsv.github.io/mermaid]]
+It is currently based on [[mermaid.js v.6.0.0|https://knsv.github.io/mermaid]]
 
 !Installation
 You can either build from [[Source code|https://github.com/gt6796c/mermaid-tw5]] or install from [[here|https://gt6796c.github.io]]
