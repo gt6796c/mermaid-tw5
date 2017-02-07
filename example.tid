@@ -23,3 +23,8 @@ graph LR;
     C-. back to.->A;">
 </$mermaid>
 
+More advanced usage is possible if you use the mermaid parser rather than the ``<$mermaid>``. Below are two more examples from the [[mermaid.js website|https://knsv.github.io/mermaid/#mermaid]]
+
+
+[[Gant Chart || $:/plugins/gt6796c/mermaid-tw5/gant]]
+[[Sequence Diagram || $:/plugins/gt6796c/mermaid-tw5/seq]]

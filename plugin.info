@@ -5,6 +5,6 @@
     "version": "0.1.1",
     "core-version": ">=5.0.8",
     "plugin-type": "plugin",
-    "list" : "readme usage example license"
+    "list" : "readme usage example license gant seq"
 
 }

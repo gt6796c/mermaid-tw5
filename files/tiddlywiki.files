@@ -33,7 +33,22 @@
             "title": "$:/plugins/gt6796c/mermaid-tw5/mermaid.forest.css",
             "tags" : "$:/tags/Stylesheet"
         }
+    },
+    {
+        "file": "gant.tid",
+        "fields": {
+            "type": "text/vnd.tiddlywiki.mermaid",
+            "title": "$:/plugins/gt6796c/mermaid-tw5/gant"
+        }
+    },
+    {
+        "file": "seq.tid",
+        "fields": {
+            "type": "text/vnd.tiddlywiki.mermaid",
+            "title": "$:/plugins/gt6796c/mermaid-tw5/seq"
+        }
     }
+
 
 ]
 }
