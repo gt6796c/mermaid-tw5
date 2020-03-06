@@ -23,13 +23,6 @@
         "type": "text/vnd.tiddlywiki.mermaid",
         "title": "$:/plugins/gt6796c/mermaid-tw5/seq"
       }
-    },
-    {
-      "file": "graph.tid",
-      "fields": {
-        "type": "text/vnd.tiddlywiki.mermaid",
-        "title": "$:/plugins/gt6796c/mermaid-tw5/graph"
-      }
     }
   ]
 }
