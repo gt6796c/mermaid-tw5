@@ -3,7 +3,7 @@
     "name": "mermaid.js integration",
     "description": "Wrappers for mermaid.js",
     "author": "Nathaniel Jones",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "core-version": ">=5.0.8",
     "list" : "readme usage example seq gant license"
 }
