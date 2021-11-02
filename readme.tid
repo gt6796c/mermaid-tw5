@@ -4,7 +4,7 @@ This is a TiddlyWiki plugin for using mermaid.js.
 
 It is completely self-contained, and doesn't need an Internet connection in order to work. It works both in the browser and under Node.js.
 
-It is currently based on [[mermaid.js v.7.0.0|https://knsv.github.io/mermaid]]
+It is currently based on [[mermaid.js v8.8.4|http://mermaid-js.github.io/mermaid/]]
 
 !Installation
 You can either build from [[Source code|https://github.com/gt6796c/mermaid-tw5]] or install from [[here|https://gt6796c.github.io]]
@@ -14,5 +14,9 @@ You can either build from [[Source code|https://github.com/gt6796c/mermaid-tw5]]
 *[[rocklib Plugin|https://gt6796c.github.io]]
 
 !History
+;0.3.1
+: Update mermaid to v8.8.4
+;0.3.0
+: Update mermaid to v8.4.8
 ;0.1.1
 : Updated to use [[rocklib|$:/plugins/gt6796c/rocklib]]

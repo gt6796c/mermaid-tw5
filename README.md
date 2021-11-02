@@ -1,7 +1,7 @@
 # mermaid-tw5
 
 # wrapper for mermaid
-https://knsv.github.io/mermaid/
+https://mermaid-js.github.io/mermaid/
 
 place the <$mermaid> widget and then use the mermaid syntax with in the text.
 
